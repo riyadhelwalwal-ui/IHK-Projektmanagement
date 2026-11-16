@@ -1,10 +1,10 @@
-# 🎤 Präsentationskarte: Projektleitung (Person A)
+# 🎤 Projektübersicht & Präsentationskarte: Projektleitung (Person A)
 **Projekt:** KI-gestütztes Kapazitäts- und Event-Management für Lieferplattformen  
-**Sprecher:** Riyadh | **Abgabetermin:** 10.12.2026
+**Projektleitung:** Riyadh (Berlin) | **Abgabetermin:** 10.12.2026
 
 ---
 
-## 📌 Kapitel 1: Projektauftrag und Ziele
+## 📌 Kapitel 1: Projektauftrag und Ziele (Riyadh – Person A)
 
 ### 1. Ausgangslage und Problemstellung
 Bei Großveranstaltungen in Berlin (z. B. Straßenfeste, Konzerte oder Sportevents) entsteht ein massiver Anstieg an Laufkundschaft in Restaurants. Gleichzeitig laufen Online-Bestellungen über Lieferplattformen ungebremst weiter. Da die Kassensysteme (POS) nicht mit den Liefer-Apps verknüpft sind, kommt es zu Küchenüberlastung, langen Kurier-Wartezeiten und spontanen Stornierungen.
@@ -18,17 +18,21 @@ Bei Großveranstaltungen in Berlin (z. B. Straßenfeste, Konzerte oder Sporteven
 
 ---
 
-## ⚙️ Kapitel 2: Vorgehensmodell und Organisation
+## ⚙️ Kapitel 2: Vorgehensmodell und Organisation (Riyadh – Person A)
 
 ### 1. Hybrides Vorgehensmodell
 Wir arbeiten **hybrid**: Ein klassischer Rahmen mit festen Meilensteinen und dem Abgabetermin (**10.12.2026**) gibt die Gesamtstruktur vor. Innen arbeiten wir agil in **1-Wochen-Sprints** mit einem gemeinsamen Kanban-Board (z. B. Trello/Notion), um flexibel auf Feedback aus den Check-ins zu reagieren.
 
-### 2. Projektorganisation und Rollenverteilung
+### 2. Aktuelle Projektorganisation & Rollenverteilung (Stand: 16.11.2026)
 * **Auftraggeber (Sponsoren):** Geschäftsführung der „QuickBite Berlin GmbH“ (fiktiv); Michael & Hannes (MSIT) als Projektcoaches und Prüfer.
-* **Riyadh (Person A – Projektleitung):** Projektauftrag, Ziele, Vorgehensmodell, Organisation sowie Fachexperte für Lieferlogistik.
-* **Jens (Person B):** Planung, Kennzahlen (KPIs), Stakeholder-, Risiko- und Qualitätsmanagement.
-* **Andre (Person C):** KI-Konzept (Datenquellen, Integration), Teamkommunikation und Konfliktvorsorge.
-* **Alle gemeinsam:** Kapitel 7 (Reflexion & KI-Transparenz) und die 30-minütige Gruppenpräsentation.
+* **Riyadh (Person A – Projektleitung & Fachexperte):** 
+  * Kapitel 1 (Projektauftrag & Ziele) & Kapitel 2 (Vorgehensmodell & Organisation) sowie Fachexperte für Lieferlogistik.
+* **Andre (Person B – Planung, Risiko & Qualität):** 
+  * Kapitel 3 (Planung & Steuerung mit Kennzahlen/KPIs) & Kapitel 4 (Stakeholder-, Risiko- und Qualitätsmanagement).
+* **Jens (Person C – KI-Konzept & Teamkommunikation):** 
+  * Kapitel 5 (Konzept für den KI-Einsatz / Datenquellen) & Kapitel 6 (Team, Kommunikation & Konfliktvorsorge).
+* **Alle gemeinsam:** 
+  * Kapitel 7 (Reflexion & KI-Transparenz) und die 30-minütige Gruppenpräsentation.
 
 ---
 
